@@ -1,0 +1,35 @@
+body {
+    background-color: gray;
+    font-family: cursive;
+}
+
+.header_div {
+    background-color:grey;
+    color: lightblue;
+    text-align: center;
+}
+
+.header_div p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: lightblue;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    color:lightblue;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
+
+.main_div button{
+margin: 30px;
+width: 150px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
